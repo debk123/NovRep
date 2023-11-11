@@ -10,7 +10,7 @@ namespace simple
     {
         public static void Main()
         {
-            Console.WriteLine("welcome to jenkins");
+            Console.WriteLine("welcome to jenkins2");
         }
         public static string mess()
         {
