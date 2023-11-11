@@ -1,0 +1,7 @@
+E:\March23\Jen1\simple\bin\Debug\simple.exe.config
+E:\March23\Jen1\simple\bin\Debug\simple.exe
+E:\March23\Jen1\simple\bin\Debug\simple.pdb
+E:\March23\Jen1\simple\obj\Debug\simple.csproj.AssemblyReference.cache
+E:\March23\Jen1\simple\obj\Debug\simple.csproj.CoreCompileInputs.cache
+E:\March23\Jen1\simple\obj\Debug\simple.exe
+E:\March23\Jen1\simple\obj\Debug\simple.pdb
